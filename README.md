@@ -28,9 +28,3 @@ The following author-supplied SVG files retain their original vector content and
 | [reversed_fig1.svg](Figures/reversed_fig1.svg) | SVG vector | 3245 × 2159 |
 | [reversed_fig2.svg](Figures/reversed_fig2.svg) | SVG vector | 2952 × 2076 |
 | [reversed_fig3.svg](Figures/reversed_fig3.svg) | SVG vector | 3034 × 1742 |
-
-## Version and integrity
-
-Updated on 24 November 2026 using the author-supplied `Supplementary_Appendices1123.docx` and `Figures` directory. The Word document and all three figure files are copied without modification. The appendix is available at the existing stable repository path; earlier versions remain in Git history.
-
-[SHA256SUMS](SHA256SUMS) records SHA-256 checksums for the appendix, figures and Markdown documentation. When citing this material, identify the repository and the exact commit used so that readers can retrieve the same version.
