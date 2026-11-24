@@ -1,24 +1,36 @@
 # GCE-LLM supplementary material
 
-This repository contains the supplementary appendices for the GCE-LLM heart-failure study. The document provides the definitions, guideline-source mappings, evaluation design and score-distribution figures associated with manuscript Sections 3.2, 3.3.4 and 4.1.
+This repository contains Supplementary Appendices A–F and the original vector figures for the GCE-LLM heart-failure study.
 
-## Download
+## Downloads
 
-[Supplementary Appendices A–D (Word)](appendices/Supplementary_Appendices.docx)
+- [Supplementary Appendices A–F (Word)](appendices/Supplementary_Appendices.docx)
+- [Detailed contents and table sizes](CONTENTS.md)
+- [Original vector figures](Figures/)
 
-[Detailed contents and table sizes](CONTENTS.md)
-
-## Contents
+## Appendix contents
 
 | Appendix | Manuscript section | Material |
 | --- | --- | --- |
-| A | 3.2 | Guideline lexicons and matching rules; input aliases; 22 derived features; 31 raw inputs; medication-event definitions; original guideline-passage registers. |
-| B | 3.3.4 | Drug classes and agents; 34 predefined treatment questions; guideline-source locators. |
-| C | 4.1 | HERO selection; ten evaluation cases; condition codebook; blinded-plan crosswalk for 149 plans and 447 assessments. |
-| D | Evaluation score distributions | Safety, clinical appropriateness, clinical actionability and composite-score distribution figures. |
+| A | 3.2 | Guideline lexicons and matching rules; source correspondence; complete case-feature and event definitions. |
+| B | 3.3.4 | Five drug classes, 34 predefined treatment questions and guideline locators. |
+| C | 4.1 | HERO selection conditions; ten evaluation cases; condition codes and all 149 blinded-plan mappings. |
+| D | 4.4.4 | Statistical analysis |
+| E | 5.5 | Independent module evaluation |
+| F | Results / Reviewer 3 | Score distributions. |
 
-## Version
+## Figures
 
-The Word file was copied without alteration from the author-supplied document on 14 November 2026. Its SHA-256 checksum is recorded in [SHA256SUMS](SHA256SUMS).
+The following author-supplied SVG files retain their original vector content and can be scaled without raster pixelation. The dimensions below are the SVG document dimensions; they do not represent a DPI limit.
 
-When citing this material, identify the repository and the exact commit used so that readers can retrieve the same version.
+| File | Format | SVG width × height |
+| --- | --- | --- |
+| [reversed_fig1.svg](Figures/reversed_fig1.svg) | SVG vector | 3245 × 2159 |
+| [reversed_fig2.svg](Figures/reversed_fig2.svg) | SVG vector | 2952 × 2076 |
+| [reversed_fig3.svg](Figures/reversed_fig3.svg) | SVG vector | 3034 × 1742 |
+
+## Version and integrity
+
+Updated on 24 November 2026 using the author-supplied `Supplementary_Appendices1123.docx` and `Figures` directory. The Word document and all three figure files are copied without modification. The appendix is available at the existing stable repository path; earlier versions remain in Git history.
+
+[SHA256SUMS](SHA256SUMS) records SHA-256 checksums for the appendix, figures and Markdown documentation. When citing this material, identify the repository and the exact commit used so that readers can retrieve the same version.

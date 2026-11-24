@@ -1,10 +1,10 @@
 # Detailed contents
 
-The numbering below follows the supplied Word document. Row counts exclude the header row.
+The headings, table captions and figure labels below follow the supplied A–F Word document. Table row counts exclude the header row.
 
 | Section or table | Data rows | Columns |
 | --- | ---: | ---: |
-| Guide to the supplementary material | 4 | 3 |
+| Guide to the supplementary material | 6 | 3 |
 | **Appendix A. Guideline and case processing (Section 3.2)** | | |
 | **A1. Guideline lexicons and literal matching** | | |
 | Table A1. Drug-topic and retrieval vocabularies | 5 | 3 |
@@ -39,6 +39,19 @@ The numbering below follows the supplied Word document. Row counts exclude the h
 | Table C3. Complete condition codebook | 19 | 3 |
 | **C4. Complete blinded-plan crosswalk** | | |
 | Table C4. All 149 blinded plans, patient identifiers, conditions, raters and rating records | 149 | 6 |
-| **Appendix D. Score distributions prepared for Reviewer 3** | | |
+| **Appendix D. Statistical analysis (Section 4.4.4)** | | |
+| **Appendix E. Independent module evaluation (Section 5.5)** | | |
+| Table 14. Item-level discrepancies and proposed revisions in independent module review | 14 | 5 |
+| **Appendix F. Score distributions prepared for Reviewer 3** | | |
+| Figure D1. Safety distributions | | |
+| Figure D2. Clinical appropriateness distributions | | |
+| Figure D3. Clinical actionability distributions | | |
+| Figure D4. Composite score distributions | | |
 
-Appendix D contains Figures D1–D4 in the Word document.
+## Original vector figure files
+
+- [reversed_fig1.svg](Figures/reversed_fig1.svg)
+- [reversed_fig2.svg](Figures/reversed_fig2.svg)
+- [reversed_fig3.svg](Figures/reversed_fig3.svg)
+
+The original files are preserved as supplied. Figure and table identifiers in this index reproduce the document labels.
